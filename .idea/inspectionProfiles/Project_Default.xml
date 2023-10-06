@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="myproject.myapp2.management.commands.create_user.myapp2" />
+          <option value="myproject.myapp2.management.commands.get_all_users.myapp2" />
+          <option value="myproject.myapp2.management.commands.get_user.myapp2" />
+          <option value="myproject.myapp2.management.commands.update_user.myapp2" />
+          <option value="myproject.myapp2.management.commands.delete_user.myapp2" />
+          <option value="Basic.seminar2.views.seminar2" />
+          <option value="Basic.sem2_task2app.views.sem2_task2app" />
+          <option value="Basic.sem2_task2app.management.commands.author_create.sem2_task2app" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
