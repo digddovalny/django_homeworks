@@ -21,6 +21,7 @@ class Product(models.Model):
     product_price = models.DecimalField(max_digits=8, decimal_places=2)
     product_count = models.IntegerField()
     product_add_date = models.DateTimeField()
+    #image = models.ImageField(upload_to='images')
 
     def __str__(self):
         return f'{self.product_name}'

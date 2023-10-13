@@ -21,4 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('hw2.urls')),
     path('hw2/', include('hw2.urls')),
+    path('hw4/', include('hw4.urls')),
 ]
